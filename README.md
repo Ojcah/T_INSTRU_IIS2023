@@ -1,8 +1,8 @@
-# T_INSTRU_IIS2023
-
-
+# Laboratorio I: Introducción a Taller de Instrumentación
+Oscar Andrés Rojas Fonseca
+Sharon Valverde Jiménez
+Sebastián Vega Cerdas
 ## Instrucciones Generales
-
 Se elaborará el modelo de respuesta en frecuencia de un dispositivo bajo prueba. En esta práctica, el
 dispositivo será un micrófono de audio. Para esta práctica se realizará el mismo procedimiento para dos
 micrófonos: uno de un celular y otro de una laptop. Se utilizará el método de estimación de respuesta en
