@@ -1,7 +1,7 @@
 # T_INSTRU_IIS2023
 
 
-##Instrucciones Generales
+## Instrucciones Generales
 
 Se elaborará el modelo de respuesta en frecuencia de un dispositivo bajo prueba. En esta práctica, el
 dispositivo será un micrófono de audio. Para esta práctica se realizará el mismo procedimiento para dos
@@ -12,9 +12,9 @@ cada micrófono se realizará el análisis de la respuesta en frecuencia de cada
 se almacenará en formatos sin distorsión por compresión. Elaboré un método para estimar el SNR de las
 grabaciones (use un tono de 1kHz como referencia).
 
-##Metodologia
+## Metodologia
 --
 
-##Fechas Importantes
+## Fechas Importantes
 7 de agosto   -> Revision y cuestionario previo
 14 de agosto  -> Revision final 
