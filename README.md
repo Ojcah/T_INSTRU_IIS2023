@@ -14,7 +14,12 @@ grabaciones (use un tono de 1kHz como referencia).
 
 ## Metodologia
 --
-
+## Avance
+- Creacion del archivo de barrido de frecuencia desde los 50 Hz hasta los 5 kHz
+- Se buscó información para ver cuales son las posibles formas de manejas señales de audio con PYTHON
+  - Se encontró la libreria Scipy que sirve para manipular señales sinusoidales al igual que la libreria WAV para poder usar el formato .wav y asi tener una grabacion sin compresión ni distorción
+- Se inició con la investigación para usar MATLAB como herramienta para el analisis de las señales de audio
+- Se intentó hacer las grabaciones pero debido al ruido se va a volver a hacer durante la noche
 ## Fechas Importantes
 7 de agosto   -> Revision y cuestionario previo
 14 de agosto  -> Revision final 
